@@ -1,0 +1,46 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.calculadora {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 5px;
+}
+
+.botones {
+    margin-top: 10px;
+}
+
+button {
+    width: 60px;
+    padding: 8px;
+    margin: 4px;
+    background-color: #ddd;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #ccc;
+}
+
+#resultado {
+    margin-top: 15px;
+    font-weight: bold;
+}
